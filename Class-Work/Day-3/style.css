@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-div {
+  text-align: center;
+  padding: 40px;
+  background-color: #f0f0f0;
+}
+
+.nested-div {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 10px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
